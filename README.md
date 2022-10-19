@@ -1,2 +1,3 @@
 # DataScientist-Analyst_projects
 all eda_ml projects here, ,created  by  ambali anjane
+1>project regarding analysis of avocado_price and prediction ,all documentation and analysis is well organized  in file itself....
